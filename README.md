@@ -1,7 +1,7 @@
 ## DONGYEOP KIM
 ********
 
-백엔드 개발 지망생
+개발 지망생
 
 42Seoul 10기 - dongyeuk 입니다.
 
