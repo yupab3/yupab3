@@ -1,22 +1,19 @@
 ## DONGYEOP KIM
 ********
-
+<br/><br/>
 안녕하세요!
-
+<br/><br/>
 SCADA 시스템 2년차 개발자입니다.
-
+<br/><br/>
 C/C++ 개발을 주로 하고, backend 개발에도 흥미가 있습니다.
-
+<br/><br/>
 docker, kubernetes에도 관심이 생겨 멀티 에이전트 AI 개발 프로젝트를 간단하게 맛만 봤습니다. :)
 (Repository - P_AI)
-  
-  
+<br/><br/><br/>
 알고리즘이 재밌어서 프로젝트 집중할 때를 제외하곤 생각날 때 마다 풀고 있습니다.
-
+<br/><br/>
 솔브드 라이벌 환영합니다.
- 
- 
- 
+<br/><br/><br/><br/> 
 ****공부하는 것들****
  
 <a href="https://github.com/yupab3/java" target="_blank"><img src="https://img.shields.io/badge/Java Spring-%23000000.svg?&style=flat&logo=spring&logoColor=white&labelColor=000000&link=asd" alt="Spring"></a>　<a href="https://github.com/yupab3/java" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-%23000000.svg?&style=flat&logo=springboot&logoColor=white&labelColor=000000" alt="Springboot"></a>　<a href="https://aspiring-canvas-b83.notion.site/1167f793ac7f804d887ee327b49cdbce?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Computer%20Network-%23000000.svg?&style=flat&logo=Internet%20computer&logoColor=white&labelColor=000000" alt="Computer Network"></a>
